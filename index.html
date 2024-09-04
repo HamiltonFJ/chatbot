@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAB</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="img/bar.jpg" alt="Imagem da barra">
+    <header><h1>Carros Antigos Brasileiros </h1></header>
+    <main> 
+        <section>
+            <input type="text" placeholder="Digite o nome do carro">
+            <button>Pesquisar</button>            
+        </section>
+        <section class="resultados-pesquisa">
+            <div class="item-resultado">
+                <h2>
+                    Chevrolet Opala
+                </h2>
+                   <p claas="descricao-meta">O Chevrolet Opala é, sem dúvida, um dos carros mais icônicos da indústria automobilística brasileira.
+                    Produzido pela General Motors do Brasil entre 1968 e 1992, o Opala conquistou o coração dos brasileiros 
+                    por sua robustez, design elegante e versatilidade.</p> 
+                   <p> Um pouco de história:</p>
+                   <p>- Origem:O Opala foi inspirado no Opel Rekord alemão, mas com mecânica e estilo do Chevrolet Impala 
+                     norte-americano. Essa combinação resultou em um carro que agradou em cheio ao público brasileiro.</p>
+                   <p>- Lançamento:Apresentado no Salão do Automóvel de São Paulo em 1968, o Opala logo se tornou um sucesso de vendas, 
+                     rivalizando com modelos como Ford Galaxie e Dodge Dart.</p>
+                   <p>- Versatilidade:Ao longo dos anos, o Opala foi oferecido em diversas versões, desde as mais simples até as mais 
+                     luxuosas, passando por opções esportivas como o SS. Além disso, havia opções de carroceria como sedã, cupê, perua 
+                     e até mesmo picapes.</p>
+                   <p>
+                     <a href="#" onclick="abrirImagem('https://upload.wikimedia.org/wikipedia/commons/2/22/Chevrolet_Opala_SS_1978_Inca.jpg', 800, 600)">Abrir Imagem</a>
+                    <h3> </h3>
+                    </p>
+                 <script>
+                 function abrirImagem(url, largura, altura)
+                 {
+                    var larguraTela = window.screen.width;
+                    var alturaTela = window.screen.height;
+                    var esquerda = (larguraTela - largura) / 2;
+                    var topo = (alturaTela - altura) / 2;
+                    var novaJanela = window.open(url, '_blank', 'width=' + largura + ',height=' + altura + ',left=' + esquerda + ',top=' + topo);
+                 }
+                </script>      
+            </div>
+            <div class="item-resultado">
+                <h2>
+                    Puma
+                </h2>
+                    <p class="descricao-meta">O Ford Puma é um SUV compacto que combina estilo moderno, tecnologia avançada e desempenho dinâmico. Lançado em [ano], o Puma rapidamente conquistou o público com seu design arrojado e suas diversas funcionalidades. </p>
+                    <p>Um pouco de história:</p>
+                    <p>- Lançamento: O Ford Puma foi apresentado ao mercado em [ano], marcando a entrada da Ford em um segmento de SUVs compactos que vinha crescendo rapidamente.</p>
+                    <p>- Design: Com linhas esportivas e um visual moderno, o Puma se destaca por sua personalidade única e por oferecer um porta-malas do tipo "Mega Box", ideal para transportar objetos maiores.</p>
+                    <p>- Tecnologia: O Puma vem equipado com uma série de tecnologias avançadas, como o sistema de infoentretenimento SYNC, assistentes de condução e motorização eficiente.</p>
+                    <p>
+                    <a href="#" onclick="abrirImagem('https://tinyurl.com/3mf5zt23', 800, 600)">Abrir Imagem</a>
+                    <h3></h3>
+                    </p>
+            </div>
+            <div class="item-resultado">
+                <h2>
+                    Volkswagen Brasília
+                </h2>
+                    <p class="descricao-meta">O Volkswagen Brasília foi um automóvel popular produzido no Brasil pela Volkswagen entre 1973 e 1982. Conhecido por seu design inovador e por ser um dos primeiros carros brasileiros a ter motor traseiro, o Brasília se tornou um ícone da indústria automobilística nacional.</p>
+                    <p>Um pouco de história:</p>
+                    <p>- Lançamento: Apresentado em 1973, o Brasília foi um dos primeiros carros brasileiros a ter um design totalmente nacional, desenvolvido pelo estilista brasileiro Aníbal Rego.</p>
+                    <p>- Design: Seu design inovador, com linhas arredondadas e um grande vidro traseiro, era bastante diferente dos outros carros da época. O Brasília foi projetado para ser um carro familiar, com amplo espaço interno e um porta-malas generoso.</p>
+                    <p>- Motorização: Inicialmente equipado com o motor 1.3L boxer, o Brasília também recebeu outras opções de motorização ao longo de sua produção.</p>
+                    <p>
+                    <a href="#" onclick="abrirImagem('https://tinyurl.com/2cyrwud2', 800, 600)">Abrir Imagem</a>
+                    <h3></h3>
+                    </p>
+            </div>
+            <div class="item-resultado">
+                <h2>
+                    Chevrolet Chevette
+                </h2>
+                    <p class="descricao-meta">O Chevrolet Chevette foi um dos carros mais populares do Brasil, produzido pela General Motors entre 1973 e 1994. Conhecido por sua robustez, baixo custo de manutenção e versatilidade, o Chevette conquistou o coração dos brasileiros.</p>
+                    <p>Um pouco de história:</p>
+                    <p>- Lançamento: Apresentado em 1973, o Chevette chegou ao Brasil para competir com o Volkswagen Fusca e outros modelos populares da época.</p>
+                    <p>- Design: Com linhas mais quadradas e um visual robusto, o Chevette se destacava pela sua praticidade e capacidade de carga. Sua carroceria era disponível em diversas versões, incluindo sedã, perua e picape.</p>
+                    <p>- Motorização: Inicialmente equipado com um motor 1.0L, o Chevette recebeu posteriormente motores 1.4L e 1.6L, oferecendo mais potência e desempenho.</p>
+                    <p>
+                    <p><a href="#" onclick="abrirImagem('https://tinyurl.com/2j5t6f38', 800, 600)">Abrir Imagem</a></p>
+                    <p><a href="#" onclick="abrirImagem('https://tinyurl.com/mwubd8be', 800, 600)">Abrir Imagem</a></p>
+                    <h3></h3>
+                    </p>
+                </div>
+        </section>
+    </main>
+    <footer>
+        <p>Modelo de Chatbot - Carros Antigos Brasileiros 2024</p>
+        <p>Desenvolvido por hamiltonfreire@gmail.com - Todos os direitos Reservados</p>
+    </footer>
+    /*==============>   Referenciar os arquivos Java Script*/
+        <script src="dados.js"></script>
+        <script src="app.js"></script>
+</body>
+</html>
+

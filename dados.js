@@ -31,5 +31,21 @@ let dados =
         motor: '1.4L OHV, 4 cilindros',
         imagem: 'https://tinyurl.com/mwubd8be',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Chevrolet_Chevette'
+    },
+    {
+        nome: 'Ford Maverick',
+        descricao: "O Ford Maverick foi um carro popular produzido pela Ford no Brasil na década de 1970. Conhecido por sua robustez e desempenho, o Maverick se destacou como um carro versátil, tanto para uso urbano quanto para viagens mais longas. Sua estética marcante e motor potente o tornaram um ícone da época.",
+        periodoFabricado: '1970-1979', 
+        motor: 'V6 2.3L', 
+        imagem: 'https://vintageclassicos.com.br/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-04-at-09.49.18.jpeg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Maverick'
+    },
+    {
+        nome: 'Volkswagen Fusca',
+        descricao: "O Volkswagen Fusca é um dos carros mais icônicos da história automobilística mundial. Produzido por décadas, o Fusca conquistou milhões de fãs ao redor do globo. No Brasil, o Fusca foi sinônimo de simplicidade, economia e durabilidade. Seu design atemporal e motor traseiro o tornaram um clássico.",
+        periodoFabricado: '1950-1996', // Ajuste o período conforme o país e versão
+        motor: '1.3L a ar',
+        imagem: 'https://s2-autoesporte.glbimg.com/FR146X3UJL__65TiLnR8QhiOl6o=/0x0:1700x1136/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2024/a/U/UDQupEQD6wTAF2HMGwWg/fuscaitamar08.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Fusca'
     }
 ];

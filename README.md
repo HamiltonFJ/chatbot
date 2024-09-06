@@ -1,2 +1,1 @@
-# chatbot1
-Projeto de ChatBot para portfÃ³lio
+Este é um projeto modelo básico para portfólio

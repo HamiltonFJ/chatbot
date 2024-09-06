@@ -1,17 +1,18 @@
 function pesquisar() {
     // Obtém a seção onde os resultados serão exibidos
-    
     let section = document.getElementById("resultados-pesquisa");
-
 
     // Recebe a variável do botão pesquisar
     let campoPesquisa = document.getElementById("campo-pesquisa").value;
     
     // seo campo pesquisa for uma string vazia nao trará nada
-    if (campoPesquisa == "") {
-       section.innerHTML="Não existem informações a pesquisar."
+    //if (!campoPesquisa) => a exclamação significa: se campo "x=vazio"
+    if (!campoPesquisa) {
+       section.innerHTML="<p>Não foi inserida nenhuma informação para pesquisa<p/>"
        return
     }
+
+
     
     //atribui minusculas ao conteudo do campo pesquisa
     campoPesquisa=campoPesquisa.toLowerCase()
@@ -23,6 +24,7 @@ function pesquisar() {
     let descricao="";
     let periodoFabricado="";
     let motor="";
+    let tags="";
 
     
     //let resultados = "";
@@ -34,13 +36,15 @@ function pesquisar() {
         descricao=dado.descricao.toLowerCase()
         periodoFabricado=dado.periodoFabricado.toLowerCase()
         motor=dado.motor.toLowerCase()
+        tags=dado.tags.toLowerCase()
 
       //console.log(dado.nome.includes(campoPesquisa)) <= Teste de console
       //se no dado.nome incluir o campo de pesquisa, execute:
       if (nome.includes(campoPesquisa) || 
          descricao.includes(campoPesquisa) || 
          periodoFabricado.includes(campoPesquisa) || 
-         motor.includes(campoPesquisa))
+         motor.includes(campoPesquisa) ||
+         tags.includes(campoPesquisa))
          {
           // cria um novo elemento 
           // Concatena o HTML de cada resultado à string 'resultados'
@@ -60,8 +64,10 @@ function pesquisar() {
           </div>
           `;
         }
-      
-
+        
+    if (!resultados) {
+       resultados="<p>Não foi encontrada nenhuma correspondência<p/>"       
+    }    
       
     }  
     // Atribui a string 'resultados' ao conteúdo HTML da seção

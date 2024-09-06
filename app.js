@@ -11,9 +11,6 @@ function pesquisar() {
        section.innerHTML="<p>Não foi inserida nenhuma informação para pesquisa<p/>"
        return
     }
-
-
-    
     //atribui minusculas ao conteudo do campo pesquisa
     campoPesquisa=campoPesquisa.toLowerCase()
     //atribui minusculas ao conteudo do arquivo dados.js
@@ -31,7 +28,8 @@ function pesquisar() {
 
     // Itera sobre cada dado na lista de dados
     
-    for (let dado of dados) {
+    for (let dado of dados)
+    {
         nome=dado.nome.toLowerCase()
         descricao=dado.descricao.toLowerCase()
         periodoFabricado=dado.periodoFabricado.toLowerCase()
@@ -47,8 +45,8 @@ function pesquisar() {
          tags.includes(campoPesquisa))
          {
           // cria um novo elemento 
-          // Concatena o HTML de cada resultado à string 'resultados'
-          resultados+=
+          // Concatena o HTML de cada resultado à string 'resultados'          
+          resultados+=          
           `
           <div class="item-resultado">
                       <h2> 
@@ -64,12 +62,13 @@ function pesquisar() {
           </div>
           `;
         }
-        
-    if (!resultados) {
-       resultados="<p>Não foi encontrada nenhuma correspondência<p/>"       
-    }    
-      
+          
     }  
+    //Demonstra que não foilocalizado nada relacionado ao conteudo digitado
+    if (!resultados){
+      resultados="<p>Não foi encontrada nenhuma correspondência<p/>"       
+    }     
     // Atribui a string 'resultados' ao conteúdo HTML da seção
     section.innerHTML = resultados;
+
   }

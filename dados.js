@@ -53,5 +53,155 @@ let dados =
         imagem: 'https://s2-autoesporte.glbimg.com/FR146X3UJL__65TiLnR8QhiOl6o=/0x0:1700x1136/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2024/a/U/UDQupEQD6wTAF2HMGwWg/fuscaitamar08.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Fusca',
         tags:"fãs simplicidade economia clássico"
-    }
+    },
+    {
+        nome: 'Volkswagen Variant',
+        descricao: "O Volkswagen Variant foi um carro clássico produzido pela Volkswagen no Brasil por diversas décadas. Conhecido por sua versatilidade, o Variant era utilizado tanto como veículo familiar quanto como utilitário. Seu design atemporal e a confiabilidade do motor a ar o tornaram um ícone da indústria automobilística brasileira.",
+        periodoFabricado: '1961-1988',
+        motor: 'Principalmente motores a ar, mas também houve versões com motor a água',
+        imagem: 'https://quatrorodas.abril.com.br/wp-content/uploads/2020/12/Variant-da-Volkswagen-testada-pela-revista-Quatro-Rodas._1-e1608589335900.jpg?quality=70&strip=info',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Variant',
+        tags: "clássico versátil motor a ar familiar ícone brasileiro"
+    },
+    
+    
+    {
+        nome: 'Volkswagen Kombi',
+        descricao: "A Volkswagen Kombi foi um veículo comercial leve produzido pela Volkswagen por mais de 60 anos. Conhecida por sua versatilidade e simplicidade, a Kombi foi utilizada em diversas atividades, desde transporte de carga até como símbolo da cultura hippie. Seu design atemporal e motor a ar a tornaram um ícone mundial.",
+        periodoFabricado: '1950-2013',
+        motor: 'Principalmente motores a ar, mas também houve versões com motor a água em alguns mercados',
+        imagem: 'https://cdn.autopapo.com.br/box/uploads/2020/08/06180137/kombi-1950-azul-de-frente-a-mais-antiga-do-mundo-pertencente-a-volkswagen.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Kombi',
+        tags: "versátil hippie ícone mundial motor a ar comercial carga"
+    },
+    
+    {
+        nome: 'Ford Belina',
+        descricao: "O Ford Belina foi uma perua produzida pela Ford no Brasil, conhecida por sua robustez e versatilidade. Concorrente direta do Volkswagen Variant, o Belina se destacou por sua capacidade de carga e conforto. Seu design evoluiu ao longo dos anos, mas sempre manteve sua identidade como um veículo familiar e prático.",
+        periodoFabricado: '1970-1992',
+        motor: 'Principalmente motores a gasolina, com opções de diferentes cilindradas',
+        imagem: 'https://retornar.com.br/wp-content/uploads/2022/08/Belina-Luxo-Especial-Armazem-do-Vovo.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Belina',
+        tags: "perua robusta versátil familiar carga Ford Brasil"
+    },
+    
+    {
+        nome: 'Chevrolet Veraneio',
+        descricao: "O Chevrolet Veraneio foi um utilitário esportivo (SUV) de grande porte produzido pela Chevrolet no Brasil. Conhecido por sua robustez e capacidade de carga, o Veraneio era amplamente utilizado para fins comerciais e familiares. Seu design imponente e motor potente o tornaram um ícone da indústria automobilística brasileira.",
+        periodoFabricado: '1964-1992',
+        motor: 'Motores a gasolina de grande porte, com diversas opções de cilindradas',
+        imagem: 'https://retornar.com.br/wp-content/uploads/2023/03/image-7-1280x854.png',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Chevrolet_Veraneio',
+        tags: "SUV robusto carga familiar Chevrolet Brasil grande porte"
+    },
+    
+    {
+        nome: 'Ford Corcel',
+        descricao: "O Ford Corcel foi um sedã de médio porte produzido pela Ford no Brasil, conhecido por sua robustez e desempenho. Rival direto do Volkswagen Variant, o Corcel era um carro popular entre as famílias brasileiras. Seu design evoluiu ao longo dos anos, mas sempre manteve sua identidade como um veículo confiável e versátil.",
+        periodoFabricado: '1968-1986',
+        motor: 'Principalmente motores a gasolina, com opções de diferentes cilindradas',
+        imagem: 'https://s2-autoesporte.glbimg.com/5SysJpJv_VWzRt4KufAh_o3tVxQ=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/7/U/dWh4yBRqqXYr7YnnvlMQ/2018-07-20-corcelcupe.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Corcel',
+        tags: "sedã robusto desempenho familiar Ford Brasil"
+    },
+    
+    {
+        nome: 'Ford Del Rey',
+        descricao: "O Ford Del Rey foi um sedã de entrada produzido pela Ford no Brasil, conhecido por sua economia de combustível e design moderno para a época. Sucessor do Ford Corcel, o Del Rey conquistou um grande público. Seu design compacto e motor eficiente o tornaram uma opção popular para o dia a dia.",
+        periodoFabricado: '1976-1996',
+        motor: 'Principalmente motores a gasolina de pequena e média cilindrada',
+        imagem: 'https://i.pinimg.com/736x/9f/4a/87/9f4a87a2cf5c22eacf7a6571d8ffeb6d.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/wiki/Ford_Del_Rey',
+        tags: "sedã econômico compacto Ford Brasil"
+    },    
+    
+    {
+        nome: 'Ford Pampa',
+        descricao: "O Ford Pampa foi um utilitário esportivo (SUV) brasileiro produzido pela Ford, conhecido por sua robustez e versatilidade. Utilizado tanto para uso urbano quanto rural, o Pampa se destacou por sua capacidade de adaptação a diferentes tipos de terreno. Seu design simples e funcional, aliado à mecânica confiável, o tornaram um ícone entre os veículos utilitários brasileiros.",
+        periodoFabricado: '1981-1996',
+        motor: 'Motores a gasolina, geralmente de quatro cilindros em linha, com diferentes cilindradas, como 1.6L e 1.8L.',
+        imagem: 'https://www.carrosnaweb.com.br/fotos/ford-pampa-gl-1986-1.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Pampa',
+        tags: "robusto versátil SUV brasileiro rural Ford off-road"
+    },
+    
+    {
+        nome: 'Fiat Uno',
+        descricao: "O Fiat Uno foi um hatchback popular produzido pela Fiat no Brasil, conhecido por sua economia de combustível, design compacto e versatilidade. Marcou época e se tornou um ícone da indústria automobilística brasileira. Seu design moderno para a época e motor eficiente o tornaram uma opção popular para o dia a dia.",
+        periodoFabricado: '1984-2021',
+        motor: 'Motores a gasolina de pequena cilindrada, com opções de diferentes potências',
+        imagem: 'https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/04/18130328/2159049-ej3ialnkty.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_Uno',
+        tags: "hatch compacto econômico popular Fiat Brasil"
+    },
+    
+    {
+        nome: 'Fiat Elba',
+        descricao: "O Fiat Elba foi um hatchback popular produzido pela Fiat no Brasil, conhecido por sua economia de combustível e design compacto. Lançado como uma opção mais acessível, o Elba conquistou um público fiel, principalmente entre os jovens e aqueles que buscavam um carro para o dia a dia.",
+        periodoFabricado: '1989-1996',
+        motor: 'Motores a gasolina, com opções de diferentes cilindradas.',
+        imagem: 'https://stellantis3.dam-broadcast.com/medias/domain12808/media104215/1264618-lblelt9ysp-whr.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_Elba',
+        tags: "hatchback popular econômico compacto jovem dia a dia"
+    },
+    
+    {
+        nome: 'Simca Chambord',
+        descricao: "O Simca Chambord foi um sedã de luxo produzido no Brasil, conhecido por seu design elegante e motor V8. Considerado um ícone da indústria automobilística brasileira, o Chambord era um símbolo de status e conforto, com acabamentos sofisticados e um amplo espaço interno.",
+        periodoFabricado: '1959-1967',
+        motor: 'Motor V8, conhecido por sua potência e torque.',
+        imagem: 'https://carro.blog.br/wp-content/uploads/2019/06/Simca-Chambord.jpg', 
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Simca_Chambord',
+        tags: "sedã luxo motor V8 ícone brasileiro status conforto"
+    },
+    
+    {
+        nome: 'Aero Willys',
+        descricao: "O Aero Willys foi um automóvel brasileiro produzido pela Willys Overland do Brasil, conhecido por sua robustez e versatilidade. Utilizado tanto para uso urbano quanto rural, o Aero Willys se destacou por sua capacidade de adaptação a diferentes tipos de terreno e por sua durabilidade. Seu design atemporal e a mecânica simples o tornaram um ícone da indústria automobilística brasileira.",
+        periodoFabricado: '1960-1971',
+        motor: 'Motores a gasolina de quatro cilindros em linha, com diferentes cilindradas.',
+        imagem: 'https://www.picellileiloes.com.br/arquivos/leiloes/lotes/imagens/608ac6ace204b.jpg',
+        linkInformacoesCompletas: 'https://www.angelfire.com/wi/willysbr/aero.html',
+        tags: "robusto versátil off-road urbano rural durabilidade ícone brasileiro"
+    },
+    
+    {
+        nome: 'Jeep',
+        descricao: "A Jeep é uma marca americana de veículos off-road, reconhecida mundialmente por sua robustez e capacidade de enfrentar os terrenos mais desafiadores. Desde sua origem na Segunda Guerra Mundial, a Jeep se tornou sinônimo de aventura e liberdade.",
+        periodoFabricado: 'Desde 1941',
+        motor: "Variedade de motores, incluindo a gasolina, diesel e híbridos",
+        imagem: "https://quatrorodas.abril.com.br/wp-content/uploads/2021/01/WILLYS-JEEP-UNIVERSAL-FORD-JEEP-4-e1615042308394.jpg?quality=70&strip=info",
+        linkInformacoesCompletas: "https://www.jeep.com.br/",
+        tags: "off-road, aventura, 4x4, suv, caminhonete, americana, história"
+    },
+    
+    {
+        nome: 'Gurgel',
+        descricao: "A Gurgel foi uma fabricante brasileira de automóveis, conhecida por sua inovação e por produzir veículos adaptados às necessidades do mercado brasileiro. Com modelos como o X12 e o BR-800, a Gurgel deixou um legado importante na indústria automobilística nacional.",
+        periodoFabricado: '1969-1996',
+        motor: 'Motores a gasolina, geralmente de origem nacional',
+        imagem: 'https://conteudo.imguol.com.br/c/entretenimento/50/2020/02/02/gurgel-br-800-2-1580681602975_v2_4x3.jpg', // Imagem representativa
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Gurgel',
+        tags: "brasileira, inovadora, versátil, nacional, X12, BR-800"
+    },
+    
+    {
+        nome: 'Vemaguet',
+        descricao: "O Vemaguet foi um automóvel brasileiro produzido pela Vemag, sob licença da DKW alemã. Conhecido por sua versatilidade, economia e motor de dois tempos, o Vemaguet era um carro popular e acessível. Suas versões sedã e perua conquistaram o público brasileiro, especialmente nas áreas rurais.",
+        periodoFabricado: '1958-1967',
+        motor: 'Motor de dois tempos, três cilindros em linha, refrigerado a ar',
+        imagem: 'https://retornar.com.br/wp-content/uploads/2023/02/image-5.png',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/DKW-Vemag_Vemaguet',
+        tags: "brasileiro, popular, econômico, dois tempos, sedã, perua, DKW, Vemag"
+    },
+    
+    {
+        nome: 'Romi-Isetta',
+        descricao: "O Romi-Isetta foi o primeiro automóvel de produção em série fabricado no Brasil. Conhecido por seu design inovador e compacto, o Isetta era um microcarro econômico e prático. Sua única porta frontal e motor traseiro o tornaram um ícone da indústria automobilística brasileira.",
+        periodoFabricado: '1956-1961',
+        motor: 'Motor de dois cilindros, refrigerado a ar, localizado na traseira',
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndZo27qFKTXTVTaMShHauog6ZiiYA4LkOKw&s',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Isetta',
+        tags: "brasileiro, primeiro carro nacional, microcarro, compacto, econômico, design inovador"
+    },
 ];

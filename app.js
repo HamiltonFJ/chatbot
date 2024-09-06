@@ -1,6 +1,8 @@
 function pesquisar() {
     // Obtém a seção onde os resultados serão exibidos
+    
     let section = document.getElementById("resultados-pesquisa");
+
 
     // Recebe a variável do botão pesquisar
     let campoPesquisa = document.getElementById("campo-pesquisa").value;
@@ -10,6 +12,7 @@ function pesquisar() {
        section.innerHTML="Não existem informações a pesquisar."
        return
     }
+    
     //atribui minusculas ao conteudo do campo pesquisa
     campoPesquisa=campoPesquisa.toLowerCase()
     //atribui minusculas ao conteudo do arquivo dados.js
@@ -25,6 +28,7 @@ function pesquisar() {
     //let resultados = "";
 
     // Itera sobre cada dado na lista de dados
+    
     for (let dado of dados) {
         nome=dado.nome.toLowerCase()
         descricao=dado.descricao.toLowerCase()

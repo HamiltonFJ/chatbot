@@ -199,4 +199,5 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_147',
         tags: "brasileiro, popular, versátil, Fiat, 127, projeto italiano"
     }
+    
 ];

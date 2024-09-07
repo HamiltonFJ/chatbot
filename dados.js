@@ -63,8 +63,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Variant',
         tags: "clássico versátil motor a ar familiar ícone brasileiro"
     },
-    
-    
     {
         nome: 'Volkswagen Kombi',
         descricao: "A Volkswagen Kombi foi um veículo comercial leve produzido pela Volkswagen por mais de 60 anos. Conhecida por sua versatilidade e simplicidade, a Kombi foi utilizada em diversas atividades, desde transporte de carga até como símbolo da cultura hippie. Seu design atemporal e motor a ar a tornaram um ícone mundial.",
@@ -74,7 +72,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Kombi',
         tags: "versátil hippie ícone mundial motor a ar comercial carga"
     },
-    
     {
         nome: 'Ford Belina',
         descricao: "O Ford Belina foi uma perua produzida pela Ford no Brasil, conhecida por sua robustez e versatilidade. Concorrente direta do Volkswagen Variant, o Belina se destacou por sua capacidade de carga e conforto. Seu design evoluiu ao longo dos anos, mas sempre manteve sua identidade como um veículo familiar e prático.",
@@ -84,7 +81,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Belina',
         tags: "perua robusta versátil familiar carga Ford Brasil"
     },
-    
     {
         nome: 'Chevrolet Veraneio',
         descricao: "O Chevrolet Veraneio foi um utilitário esportivo (SUV) de grande porte produzido pela Chevrolet no Brasil. Conhecido por sua robustez e capacidade de carga, o Veraneio era amplamente utilizado para fins comerciais e familiares. Seu design imponente e motor potente o tornaram um ícone da indústria automobilística brasileira.",
@@ -94,7 +90,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Chevrolet_Veraneio',
         tags: "SUV robusto carga familiar Chevrolet Brasil grande porte"
     },
-    
     {
         nome: 'Ford Corcel',
         descricao: "O Ford Corcel foi um sedã de médio porte produzido pela Ford no Brasil, conhecido por sua robustez e desempenho. Rival direto do Volkswagen Variant, o Corcel era um carro popular entre as famílias brasileiras. Seu design evoluiu ao longo dos anos, mas sempre manteve sua identidade como um veículo confiável e versátil.",
@@ -104,7 +99,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Corcel',
         tags: "sedã robusto desempenho familiar Ford Brasil"
     },
-    
     {
         nome: 'Ford Del Rey',
         descricao: "O Ford Del Rey foi um sedã de entrada produzido pela Ford no Brasil, conhecido por sua economia de combustível e design moderno para a época. Sucessor do Ford Corcel, o Del Rey conquistou um grande público. Seu design compacto e motor eficiente o tornaram uma opção popular para o dia a dia.",
@@ -114,7 +108,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/wiki/Ford_Del_Rey',
         tags: "sedã econômico compacto Ford Brasil"
     },    
-    
     {
         nome: 'Ford Pampa',
         descricao: "O Ford Pampa foi um utilitário esportivo (SUV) brasileiro produzido pela Ford, conhecido por sua robustez e versatilidade. Utilizado tanto para uso urbano quanto rural, o Pampa se destacou por sua capacidade de adaptação a diferentes tipos de terreno. Seu design simples e funcional, aliado à mecânica confiável, o tornaram um ícone entre os veículos utilitários brasileiros.",
@@ -124,7 +117,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Pampa',
         tags: "robusto versátil SUV brasileiro rural Ford off-road"
     },
-    
     {
         nome: 'Fiat Uno',
         descricao: "O Fiat Uno foi um hatchback popular produzido pela Fiat no Brasil, conhecido por sua economia de combustível, design compacto e versatilidade. Marcou época e se tornou um ícone da indústria automobilística brasileira. Seu design moderno para a época e motor eficiente o tornaram uma opção popular para o dia a dia.",
@@ -134,7 +126,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_Uno',
         tags: "hatch compacto econômico popular Fiat Brasil"
     },
-    
     {
         nome: 'Fiat Elba',
         descricao: "O Fiat Elba foi um hatchback popular produzido pela Fiat no Brasil, conhecido por sua economia de combustível e design compacto. Lançado como uma opção mais acessível, o Elba conquistou um público fiel, principalmente entre os jovens e aqueles que buscavam um carro para o dia a dia.",
@@ -144,7 +135,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_Elba',
         tags: "hatchback popular econômico compacto jovem dia a dia"
     },
-    
     {
         nome: 'Simca Chambord',
         descricao: "O Simca Chambord foi um sedã de luxo produzido no Brasil, conhecido por seu design elegante e motor V8. Considerado um ícone da indústria automobilística brasileira, o Chambord era um símbolo de status e conforto, com acabamentos sofisticados e um amplo espaço interno.",
@@ -154,7 +144,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Simca_Chambord',
         tags: "sedã luxo motor V8 ícone brasileiro status conforto"
     },
-    
     {
         nome: 'Aero Willys',
         descricao: "O Aero Willys foi um automóvel brasileiro produzido pela Willys Overland do Brasil, conhecido por sua robustez e versatilidade. Utilizado tanto para uso urbano quanto rural, o Aero Willys se destacou por sua capacidade de adaptação a diferentes tipos de terreno e por sua durabilidade. Seu design atemporal e a mecânica simples o tornaram um ícone da indústria automobilística brasileira.",
@@ -164,7 +153,6 @@ let dados =
         linkInformacoesCompletas: 'https://www.angelfire.com/wi/willysbr/aero.html',
         tags: "robusto versátil off-road urbano rural durabilidade ícone brasileiro"
     },
-    
     {
         nome: 'Jeep',
         descricao: "A Jeep é uma marca americana de veículos off-road, reconhecida mundialmente por sua robustez e capacidade de enfrentar os terrenos mais desafiadores. Desde sua origem na Segunda Guerra Mundial, a Jeep se tornou sinônimo de aventura e liberdade.",
@@ -184,7 +172,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Gurgel',
         tags: "brasileira, inovadora, versátil, nacional, X12, BR-800"
     },
-    
     {
         nome: 'Vemaguet',
         descricao: "O Vemaguet foi um automóvel brasileiro produzido pela Vemag, sob licença da DKW alemã. Conhecido por sua versatilidade, economia e motor de dois tempos, o Vemaguet era um carro popular e acessível. Suas versões sedã e perua conquistaram o público brasileiro, especialmente nas áreas rurais.",
@@ -194,7 +181,6 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/DKW-Vemag_Vemaguet',
         tags: "brasileiro, popular, econômico, dois tempos, sedã, perua, DKW, Vemag"
     },
-    
     {
         nome: 'Romi-Isetta',
         descricao: "O Romi-Isetta foi o primeiro automóvel de produção em série fabricado no Brasil. Conhecido por seu design inovador e compacto, o Isetta era um microcarro econômico e prático. Sua única porta frontal e motor traseiro o tornaram um ícone da indústria automobilística brasileira.",
@@ -209,7 +195,7 @@ let dados =
         descricao: "O Fiat 147 foi o primeiro automóvel produzido pela Fiat no Brasil, marcando a entrada da marca no mercado nacional. Conhecido por sua versatilidade e robustez, o 147 foi um dos carros mais populares de sua época.",
         periodoFabricado: '1976-1986',
         motor: 'Motores a gasolina, desenvolvidos pela Fiat para o mercado brasileiro',
-        imagem: 'https://www.webmotors.com.br/carros/fotos/fiat-147-1985-c-standard-1.jpg',
+        imagem: 'https://revistacarro.com.br/wp-content/uploads/2018/09/Fiat-147-1.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_147',
         tags: "brasileiro, popular, versátil, Fiat, 127, projeto italiano"
     }

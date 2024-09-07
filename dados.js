@@ -204,4 +204,13 @@ let dados =
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Isetta',
         tags: "brasileiro, primeiro carro nacional, microcarro, compacto, econômico, design inovador"
     },
+    {
+        nome: 'Fiat 147',
+        descricao: "O Fiat 147 foi o primeiro automóvel produzido pela Fiat no Brasil, marcando a entrada da marca no mercado nacional. Conhecido por sua versatilidade e robustez, o 147 foi um dos carros mais populares de sua época.",
+        periodoFabricado: '1976-1986',
+        motor: 'Motores a gasolina, desenvolvidos pela Fiat para o mercado brasileiro',
+        imagem: 'https://www.webmotors.com.br/carros/fotos/fiat-147-1985-c-standard-1.jpg',
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_147',
+        tags: "brasileiro, popular, versátil, Fiat, 127, projeto italiano"
+    }
 ];

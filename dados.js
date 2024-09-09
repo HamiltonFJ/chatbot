@@ -13,10 +13,10 @@ let dados =
         nome: 'Puma',
         descricao:"A Puma: Um ícone brasileiro dos esportivos.Quando falamos em Puma no Brasil, a primeira imagem que vem à mente é a de um carro esportivo, com design elegante e performance que despertava a paixão dos amantes de velocidade. A Puma Automóveis, fundada em 1963, marcou a história automobilística brasileira com modelos icônicos que combinavam beleza e esportividade. Um pouco da história:A Puma iniciou suas atividades utilizando chassis e mecânica de outros fabricantes, como DKW e Volkswagen, e desenvolvendo carrocerias exclusivas e aerodinâmicas. A marca conquistou rapidamente o público com modelos como o GT(6cc) e o GTE(6cc), que se tornaram verdadeiros símbolos do automobilismo nacional.Características marcantes dos carros Puma: Design: As linhas elegantes e esportivas eram um dos grandes destaques dos modelos Puma, com design italiano e influências de carros europeus de alta performance.Performance: Os carros Puma eram equipados com motores potentes e suspensões esportivas, proporcionando uma experiência de condução emocionante.Exclusividade: A produção limitada dos modelos Puma os tornou carros de colecionador, valorizados pelos amantes de automóveis clássicos.",
         periodoFabricado: '1979-1996',
-        motor: '1.6L refrigerado a ar e V6 refrigerado a água no GT e GTB',
+        motor: 'Volkswagen 1.6L refrigerado a ar e V6 refrigerado a água no GT e GTB',
         imagem: 'https://upload.wikimedia.org/wikipedia/commons/2/22/Chevrolet_Opala_SS_1978_Inca.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Puma_GTE',
-        tags:"esportivo 1963 DKV GT GTE design V6"
+        tags:"esportivo 1963 DKV GT GTE design V6 Volkswagen"
     },
     {
         nome: 'Volkswagen Brasília',
@@ -25,7 +25,7 @@ let dados =
         motor: '1.3L, 1.5L e 1.6L refrigerado a ar',
         imagem: 'https://tinyurl.com/2cyrwud2',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Brasília',
-        tags:"1973 robusto envidraçada capital  1600 versatil"
+        tags:"1973 robusto envidraçada capital  1600 versatil Brasilia Volkswagen"
     },
     {
         nome: 'Chevrolet Chevette',

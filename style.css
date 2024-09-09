@@ -115,7 +115,8 @@ section button:hover {
 /*} */
 
 footer {
-    background-color: hwb(245 3% 66%); /* Cor de fundo do rodapé */
+    /*background-color: hwb(245 3% 66%); /* Cor de fundo do rodapé */
+    background-color: #F5F7F8; /* Cor de fundo do rodapé */
     color: #dddddd; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     padding: 0; /* Espaçamento interno */

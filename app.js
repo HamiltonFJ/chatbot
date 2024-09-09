@@ -70,5 +70,4 @@ function pesquisar() {
     }     
     // Atribui a string 'resultados' ao conteúdo HTML da seção
     section.innerHTML = resultados;
-
   }

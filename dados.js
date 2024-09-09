@@ -6,11 +6,7 @@ let dados =
         periodoFabricado: '1968-1992',
         motor: 'Diversas opções, incluindo 6 cilindros em linha',
         imagem: 'https://upload.wikimedia.org/wikipedia/commons/2/22/Chevrolet_Opala_SS_1978_Inca.jpg',
-        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Chevrolet_Opala'
-        
-        
-        
-        ,
+        linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Chevrolet_Opala',
         tags: "V6 6 cilindros opel impala sucesso gm"
     },
     {

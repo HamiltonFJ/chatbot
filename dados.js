@@ -7,7 +7,7 @@ let dados =
         motor: 'Diversas opções, incluindo 6 cilindros em linha',
         imagem: 'https://upload.wikimedia.org/wikipedia/commons/2/22/Chevrolet_Opala_SS_1978_Inca.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Chevrolet_Opala',
-        tags: "V6 6 cilindros opel impala sucesso gm"
+        tags: "V6 6 cilindros opel impala sucesso gm listar"
     },
     {
         nome: 'Puma',
@@ -16,7 +16,7 @@ let dados =
         motor: 'Volkswagen 1.6L refrigerado a ar e V6 refrigerado a água no GT e GTB',
         imagem: 'https://upload.wikimedia.org/wikipedia/commons/2/22/Chevrolet_Opala_SS_1978_Inca.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Puma_GTE',
-        tags:"esportivo 1963 DKV GT GTE design V6 Volkswagen"
+        tags:"esportivo 1963 DKV GT GTE design V6 Volkswagen listar"
     },
     {
         nome: 'Volkswagen Brasília',
@@ -25,7 +25,7 @@ let dados =
         motor: '1.3L, 1.5L e 1.6L refrigerado a ar',
         imagem: 'https://tinyurl.com/2cyrwud2',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Brasília',
-        tags:"1973 robusto envidraçada capital  1600 versatil Brasilia Volkswagen"
+        tags:"1973 robusto envidraçada capital  1600 versatil Brasilia Volkswagen listar"
     },
     {
         nome: 'Chevrolet Chevette',
@@ -34,7 +34,7 @@ let dados =
         motor: '1.4L, 1.6L, 4 cilindros',
         imagem: 'https://tinyurl.com/mwubd8be',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Chevrolet_Chevette',
-        tags:"popular 1973 4 cilindros econômico gm"
+        tags:"popular 1973 4 cilindros econômico gm listar"
     },
     {
         nome: 'Ford Maverick',
@@ -43,7 +43,7 @@ let dados =
         motor: 'Versões V4, V6 e V8', 
         imagem: 'https://vintageclassicos.com.br/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-04-at-09.49.18.jpeg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Maverick',
-        tags:"1970 desempenho 8 V8 potente ícone"
+        tags:"1970 desempenho 8 V8 potente ícone listar"
     },
     {
         nome: 'Volkswagen Fusca',
@@ -52,7 +52,7 @@ let dados =
         motor: '1.3L, 1.5L e 1.6L refrigerado a ar',
         imagem: 'https://s2-autoesporte.glbimg.com/FR146X3UJL__65TiLnR8QhiOl6o=/0x0:1700x1136/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2024/a/U/UDQupEQD6wTAF2HMGwWg/fuscaitamar08.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Fusca',
-        tags:"fãs simplicidade economia clássico"
+        tags:"fãs simplicidade economia clássico listar"
     },
     {
         nome: 'Volkswagen Variant',
@@ -61,7 +61,7 @@ let dados =
         motor: 'Principalmente motores a ar, mas também houve versões com motor a água',
         imagem: 'https://quatrorodas.abril.com.br/wp-content/uploads/2020/12/Variant-da-Volkswagen-testada-pela-revista-Quatro-Rodas._1-e1608589335900.jpg?quality=70&strip=info',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Variant',
-        tags: "clássico versátil motor a ar familiar ícone brasileiro"
+        tags: "clássico versátil motor a ar familiar ícone brasileiro listar"
     },
     {
         nome: 'Volkswagen Kombi',
@@ -70,7 +70,7 @@ let dados =
         motor: 'Principalmente motores a ar, mas também houve versões com motor a água em alguns mercados',
         imagem: 'https://cdn.autopapo.com.br/box/uploads/2020/08/06180137/kombi-1950-azul-de-frente-a-mais-antiga-do-mundo-pertencente-a-volkswagen.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Volkswagen_Kombi',
-        tags: "versátil hippie ícone mundial motor a ar comercial carga"
+        tags: "versátil hippie ícone mundial motor a ar comercial carga listar"
     },
     {
         nome: 'Ford Belina',
@@ -79,7 +79,7 @@ let dados =
         motor: 'Principalmente motores a gasolina, com opções de diferentes cilindradas',
         imagem: 'https://retornar.com.br/wp-content/uploads/2022/08/Belina-Luxo-Especial-Armazem-do-Vovo.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Belina',
-        tags: "perua robusta versátil familiar carga Ford Brasil"
+        tags: "perua robusta versátil familiar carga Ford Brasil listar"
     },
     {
         nome: 'Chevrolet Veraneio',
@@ -88,7 +88,7 @@ let dados =
         motor: 'Motores a gasolina de grande porte, com diversas opções de cilindradas',
         imagem: 'https://retornar.com.br/wp-content/uploads/2023/03/image-7-1280x854.png',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Chevrolet_Veraneio',
-        tags: "SUV robusto carga familiar Chevrolet Brasil grande porte gm"
+        tags: "SUV robusto carga familiar Chevrolet Brasil grande porte gm listar"
     },
     {
         nome: 'Ford Corcel',
@@ -97,7 +97,7 @@ let dados =
         motor: 'Principalmente motores a gasolina, com opções de diferentes cilindradas',
         imagem: 'https://s2-autoesporte.glbimg.com/5SysJpJv_VWzRt4KufAh_o3tVxQ=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/7/U/dWh4yBRqqXYr7YnnvlMQ/2018-07-20-corcelcupe.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Corcel',
-        tags: "sedã robusto desempenho familiar Ford Brasil"
+        tags: "sedã robusto desempenho familiar Ford Brasil listar"
     },
     {
         nome: 'Ford Del Rey',
@@ -106,7 +106,7 @@ let dados =
         motor: 'Principalmente motores a gasolina de pequena e média cilindrada',
         imagem: 'https://i.pinimg.com/736x/9f/4a/87/9f4a87a2cf5c22eacf7a6571d8ffeb6d.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/wiki/Ford_Del_Rey',
-        tags: "sedã econômico compacto Ford Brasil luxo"
+        tags: "sedã econômico compacto Ford Brasil luxo listar"
     },    
     {
         nome: 'Ford Pampa',
@@ -115,7 +115,7 @@ let dados =
         motor: 'Motores a gasolina, geralmente de quatro cilindros em linha, com diferentes cilindradas, como 1.6L e 1.8L.',
         imagem: 'https://www.carrosnaweb.com.br/fotos/ford-pampa-gl-1986-1.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Ford_Pampa',
-        tags: "robusto versátil SUV brasileiro rural Ford off-road off road offroad"
+        tags: "robusto versátil SUV brasileiro rural Ford off-road off road offroad listar"
     },
     {
         nome: 'Fiat Uno',
@@ -124,7 +124,7 @@ let dados =
         motor: 'Motores a gasolina de pequena cilindrada, com opções de diferentes potências',
         imagem: 'https://fotos-jornaldocarro-estadao.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2023/04/18130328/2159049-ej3ialnkty.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_Uno',
-        tags: "hatch compacto econômico popular Fiat Brasil italiano"
+        tags: "hatch compacto econômico popular Fiat Brasil italiano listar"
     },
     {
         nome: 'Fiat Elba',
@@ -133,7 +133,7 @@ let dados =
         motor: 'Motores a gasolina, com opções de diferentes cilindradas.',
         imagem: 'https://stellantis3.dam-broadcast.com/medias/domain12808/media104215/1264618-lblelt9ysp-whr.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_Elba',
-        tags: "hatchback popular econômico compacto jovem dia a dia italiano"
+        tags: "hatchback popular econômico compacto jovem dia a dia italiano listar"
     },
     {
         nome: 'Simca Chambord',
@@ -142,7 +142,7 @@ let dados =
         motor: 'Motor V8, conhecido por sua potência e torque.',
         imagem: 'https://carro.blog.br/wp-content/uploads/2019/06/Simca-Chambord.jpg', 
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Simca_Chambord',
-        tags: "sedã luxo motor V8 ícone status conforto seda"
+        tags: "sedã luxo motor V8 ícone status conforto seda listar"
     },
     {
         nome: 'Aero Willys',
@@ -151,7 +151,7 @@ let dados =
         motor: 'Motores a gasolina de quatro cilindros em linha, com diferentes cilindradas.',
         imagem: 'https://www.picellileiloes.com.br/arquivos/leiloes/lotes/imagens/608ac6ace204b.jpg',
         linkInformacoesCompletas: 'https://www.angelfire.com/wi/willysbr/aero.html',
-        tags: "robusto versátil off-road urbano rural durabilidade ícone brasileiro Overland"
+        tags: "robusto versátil off-road urbano rural durabilidade ícone brasileiro Overland listar"
     },
     {
         nome: 'Jeep',
@@ -160,7 +160,7 @@ let dados =
         motor: "Variedade de motores, incluindo a gasolina, diesel e híbridos",
         imagem: "https://quatrorodas.abril.com.br/wp-content/uploads/2021/01/WILLYS-JEEP-UNIVERSAL-FORD-JEEP-4-e1615042308394.jpg?quality=70&strip=info",
         linkInformacoesCompletas: "https://www.jeep.com.br/",
-        tags: "off-road  aventura 4x4 suv caminhonete americana off road"
+        tags: "off-road  aventura 4x4 suv caminhonete americana off road listar"
     },
     
     {
@@ -170,7 +170,7 @@ let dados =
         motor: 'Motores a gasolina, geralmente de origem nacional',
         imagem: 'https://conteudo.imguol.com.br/c/entretenimento/50/2020/02/02/gurgel-br-800-2-1580681602975_v2_4x3.jpg', 
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Gurgel',
-        tags: "brasileira inovadora versátil nacional X12 BR-800 br800 economico"
+        tags: "brasileira inovadora versátil nacional X12 BR-800 br800 economico listar"
     },
     {
         nome: 'Vemaguet',
@@ -179,7 +179,7 @@ let dados =
         motor: 'Motor de dois tempos, três cilindros em linha, refrigerado a ar',
         imagem: 'https://retornar.com.br/wp-content/uploads/2023/02/image-5.png',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/DKW-Vemag_Vemaguet',
-        tags: "brasileiro popular econômico 'dois tempos' sedã perua DKW Vemag seda economico"
+        tags: "brasileiro popular econômico 'dois tempos' sedã perua DKW Vemag seda economico listar"
     },
     {
         nome: 'Romi-Isetta',
@@ -188,7 +188,7 @@ let dados =
         motor: 'Motor de dois cilindros, refrigerado a ar, localizado na traseira',
         imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQndZo27qFKTXTVTaMShHauog6ZiiYA4LkOKw&s',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Isetta',
-        tags: "brasileiro primeiro carro nacional microcarro compacto econômico design inovador"
+        tags: "brasileiro primeiro carro nacional microcarro compacto econômico design inovador listar"
     },
     {
         nome: 'Fiat 147',
@@ -197,7 +197,7 @@ let dados =
         motor: 'Motores a gasolina, desenvolvidos pela Fiat para o mercado brasileiro',
         imagem: 'https://revistacarro.com.br/wp-content/uploads/2018/09/Fiat-147-1.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Fiat_147',
-        tags: "brasileiro popular versátil Fiat 127 projeto italiano"
+        tags: "brasileiro popular versátil Fiat 127 projeto italiano listar"
     }
     
 ];

@@ -16,7 +16,7 @@ let dados =
         motor: '1.6L refrigerado a ar e V6 refrigerado a água no GT e GTB',
         imagem: 'https://fotos.jornaldocarro.estadao.com.br/wp/jornal-do-carro/files/2012/02/PUMA_SO_.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Puma_GTE',
-        tags:"esportivo 1963 DKV GT GTE design V6 Volkswagen listar"
+        tags:"esportivo 1963 DKV GT GTE design V6 listar"
     },
     {
         nome: 'Volkswagen Brasília',

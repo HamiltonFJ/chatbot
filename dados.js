@@ -11,10 +11,10 @@ let dados =
     },
     {
         nome: 'Puma',
-        descricao:"A Puma: Um ícone brasileiro dos esportivos.Quando falamos em Puma no Brasil, a primeira imagem que vem à mente é a de um carro esportivo, com design elegante e performance que despertava a paixão dos amantes de velocidade. A Puma Automóveis, fundada em 1963, marcou a história automobilística brasileira com modelos icônicos que combinavam beleza e esportividade. Um pouco da história:A Puma iniciou suas atividades utilizando chassis e mecânica de outros fabricantes, como DKW e Volkswagen, e desenvolvendo carrocerias exclusivas e aerodinâmicas. A marca conquistou rapidamente o público com modelos como o GT(6cc) e o GTE(6cc), que se tornaram verdadeiros símbolos do automobilismo nacional.Características marcantes dos carros Puma: Design: As linhas elegantes e esportivas eram um dos grandes destaques dos modelos Puma, com design italiano e influências de carros europeus de alta performance.Performance: Os carros Puma eram equipados com motores potentes e suspensões esportivas, proporcionando uma experiência de condução emocionante.Exclusividade: A produção limitada dos modelos Puma os tornou carros de colecionador, valorizados pelos amantes de automóveis clássicos.",
+        descricao:"A Puma: Um ícone brasileiro dos esportivos.Quando falamos em Puma no Brasil, a primeira imagem que vem à mente é a de um carro esportivo, com design elegante e performance que despertava a paixão dos amantes de velocidade. A Puma Automóveis, fundada em 1963, marcou a história automobilística brasileira com modelos icônicos que combinavam beleza e esportividade. Um pouco da história:A Puma iniciou suas atividades utilizando chassis e mecânica de outros fabricantes e desenvolvendo carrocerias exclusivas e aerodinâmicas. A marca conquistou rapidamente o público com modelos como o GT(6cc) e o GTE(6cc), que se tornaram verdadeiros símbolos do automobilismo nacional.Características marcantes dos carros Puma: Design: As linhas elegantes e esportivas eram um dos grandes destaques dos modelos Puma, com design italiano e influências de carros europeus de alta performance.Performance: Os carros Puma eram equipados com motores potentes e suspensões esportivas, proporcionando uma experiência de condução emocionante.Exclusividade: A produção limitada dos modelos Puma os tornou carros de colecionador, valorizados pelos amantes de automóveis clássicos.",
         periodoFabricado: '1979-1996',
-        motor: 'Volkswagen 1.6L refrigerado a ar e V6 refrigerado a água no GT e GTB',
-        imagem: 'https://upload.wikimedia.org/wikipedia/commons/2/22/Chevrolet_Opala_SS_1978_Inca.jpg',
+        motor: '1.6L refrigerado a ar e V6 refrigerado a água no GT e GTB',
+        imagem: 'https://fotos.jornaldocarro.estadao.com.br/wp/jornal-do-carro/files/2012/02/PUMA_SO_.jpg',
         linkInformacoesCompletas: 'https://pt.wikipedia.org/wiki/Puma_GTE',
         tags:"esportivo 1963 DKV GT GTE design V6 Volkswagen listar"
     },
@@ -74,7 +74,7 @@ let dados =
     },
     {
         nome: 'Ford Belina',
-        descricao: "O Ford Belina foi uma perua produzida pela Ford no Brasil, conhecida por sua robustez e versatilidade. Concorrente direta do Volkswagen Variant, o Belina se destacou por sua capacidade de carga e conforto. Seu design evoluiu ao longo dos anos, mas sempre manteve sua identidade como um veículo familiar e prático.",
+        descricao: "A Ford Belina foi uma perua produzida pela Ford no Brasil, conhecida por sua robustez e versatilidade. A Belina se destacou por sua capacidade de carga e conforto. Seu design evoluiu ao longo dos anos, mas sempre manteve sua identidade como um veículo familiar e prático.",
         periodoFabricado: '1970-1992',
         motor: 'Principalmente motores a gasolina, com opções de diferentes cilindradas',
         imagem: 'https://retornar.com.br/wp-content/uploads/2022/08/Belina-Luxo-Especial-Armazem-do-Vovo.jpg',
@@ -92,7 +92,7 @@ let dados =
     },
     {
         nome: 'Ford Corcel',
-        descricao: "O Ford Corcel foi um sedã de médio porte produzido pela Ford no Brasil, conhecido por sua robustez e desempenho. Rival direto do Volkswagen Variant, o Corcel era um carro popular entre as famílias brasileiras. Seu design evoluiu ao longo dos anos, mas sempre manteve sua identidade como um veículo confiável e versátil.",
+        descricao: "O Ford Corcel foi um sedã de médio porte produzido pela Ford no Brasil, conhecido por sua robustez e desempenho. O Corcel era um carro popular entre as famílias brasileiras. Seu design evoluiu ao longo dos anos, mas sempre manteve sua identidade como um veículo confiável e versátil.",
         periodoFabricado: '1968-1986',
         motor: 'Principalmente motores a gasolina, com opções de diferentes cilindradas',
         imagem: 'https://s2-autoesporte.glbimg.com/5SysJpJv_VWzRt4KufAh_o3tVxQ=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/7/U/dWh4yBRqqXYr7YnnvlMQ/2018-07-20-corcelcupe.jpg',
